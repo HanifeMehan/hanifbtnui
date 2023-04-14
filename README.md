@@ -1,7 +1,7 @@
 # hanifbtnui
 
 > Simple button designs for your projects. Selectable types: primary,danger, default, dashed, warning and link.
-<img
+![Preview]<img
   src="src/img/btn.png"
   alt="Alt text"
   title="Optional title"
