@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-npm install --save mehanbuttonnui
+npm install --save mehanbuttonui
 ```
 
 ## Usage
@@ -17,8 +17,8 @@ npm install --save mehanbuttonnui
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'mehanbuttonnui'
-import 'mehanbuttonnui/dist/index.css'
+import MyComponent from 'mehanbuttonui'
+import 'mehanbuttonui/dist/index.css'
 
 class Example extends Component {
   render() {
