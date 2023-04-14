@@ -5,7 +5,7 @@
   src="src/img/btn.png"
   alt="Alt text"
   title="Optional title"
-  style=" margin: 0 auto; width: 500px; height:350px; display:flex; justify-content: center;
+  style=" margin: 0 auto; width: 400px; height:450px; display:flex; justify-content: center;
 ">
 [![NPM](https://img.shields.io/npm/v/hanifbtnui.svg)](https://www.npmjs.com/package/hanifbtnui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
