@@ -1,4 +1,4 @@
-# mehanbuttonnui
+# mehanbuttonui
 
 > Simple button designs for your projects. Selectable types: primary,danger, default, dashed, warning and link.
 
