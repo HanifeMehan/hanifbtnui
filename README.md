@@ -2,7 +2,7 @@
 
 > Simple button designs for your projects. Selectable types: primary,danger, default, dashed, warning and link.
 <img
-  src="../src/img/ss.png"
+  src="./src/img/ss.png"
   alt="Alt text"
   title="Optional title"
   style=" margin: 0 auto; width: 500px; height:350px; display:flex; justify-content: center;
