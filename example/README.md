@@ -1,7 +1,6 @@
 # hanifbtnui
 
 > Simple button designs for your projects. Selectable types: primary,danger, default, dashed, warning and link.
-![Preview](../src/img/btn.png)
 
 [![NPM](https://img.shields.io/npm/v/hanifbtnui.svg)](https://www.npmjs.com/package/hanifbtnui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
