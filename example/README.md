@@ -1,4 +1,4 @@
-# mehanbuttonui
+# mehanbuttonnui
 
 > Simple button designs for your projects. Selectable types: primary,danger, default, dashed, warning and link.
 
@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-npm install --save hanifbtnui
+npm install --save mehanbuttonnui
 ```
 
 ## Usage
@@ -17,8 +17,8 @@ npm install --save hanifbtnui
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'hanifbtnui'
-import 'hanifbtnui/dist/index.css'
+import MyComponent from 'mehanbuttonnui'
+import 'mehanbuttonnui/dist/index.css'
 
 class Example extends Component {
   render() {
